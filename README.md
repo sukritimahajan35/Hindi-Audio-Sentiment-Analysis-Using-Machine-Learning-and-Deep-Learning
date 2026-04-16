@@ -1,0 +1,2 @@
+# Hindi-Audio-Sentiment-Analysis-Using-Machine-Learning-and-Deep-Learning
+This project builds a Hindi audio sentiment analysis system using Machine Learning and Deep Learning techniques. It performs noise reduction, silence removal, MFCC and Mel-spectrogram feature extraction, and data augmentation. Models like CNN, CNN-LSTM, MobileNet, and ensemble methods are compared to achieve accurate emotion classification.
